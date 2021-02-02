@@ -1,4 +1,4 @@
-###LinkedIn Clone
+<h1>LinkedIn Clone</h1>
 ### `yarn install`
 
 ### `yarn start`
