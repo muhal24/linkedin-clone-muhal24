@@ -1,6 +1,5 @@
 <h1>LinkedIn Clone</h1>
 # yarn install
-
 # yarn start
 
 Runs the app in the development mode.<br />
